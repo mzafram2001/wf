@@ -8,7 +8,7 @@
   </div>
 <br>
 <div>
-  <h2>A Discord bot to get weekly Shrine of Secrets from Dead By Daylight.</h2>
+ <h2>A Python bot</h2>
   <ul>
     <b><li>FARM BELLS</li></b>
   </ul>
